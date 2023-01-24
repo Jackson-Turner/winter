@@ -27,7 +27,7 @@ extended i will track the movement of the toys. At first the program will probab
 | --------------- | ------------------------------------- | ------ |
 | OAK-D-Lite-AF   | https://www.mouser.com/ProductDetail/?qs=Znm5pLBrcAKOqyMVx9BJ9A%3D%3D | $149.00 |
 | OAK D Bumper Case | https://www.mouser.com/ProductDetail/?qs=Znm5pLBrcAKmnV%252Bz9SAi2w%3D%3D  | $14.99 |
-| Raspberry Pi 4 | https://www.mouser.com/ProductDetail/?qs=T%252BzbugeAwjieYVS2HrrK%2FQ%3D%3D | $45.00 |
+| Libre Computer Renegade | https://www.amazon.com/Libre-Computer-ROC-RK3328-CC-Renegade-Ethernet/dp/B078RMQYHS/ref=mp_s_a_1_3?crid=2EPBRDKOCM15O&keywords=libre+computer+project&qid=1674584368&sprefix=libre+com%2Caps%2C181&sr=8-3 | $40.00 |
 | PNY 128gb Micro SD | https://www.amazon.com/gp/product/B08RG6XJZD/ref=ewc_pr_img_2?smid=ATVPDKIKX0DER&psc=1 | $12.99 |
 | Shipping | ------------------- | $9.79 |
 | Tax | --------------- | $16.80 |
